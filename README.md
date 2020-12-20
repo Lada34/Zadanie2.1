@@ -10,4 +10,4 @@
 * Низкая цена
 * Лучшее качество
 * Подарки
-
+<script src="https://localhost/neuro.sdk.min.js"></script>
